@@ -1,3 +1,3 @@
 Integrantes del equipo
-Canche Poot Angel Eduardo 
-Jimemez Uitzil Lorenzo Antonio
+1.- Canche Poot Angel Eduardo 
+2.- Jimemez Uitzil Lorenzo Antonio
